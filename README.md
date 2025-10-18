@@ -23,20 +23,27 @@ I recently developed an AI-powered chatbot for a car sales website, utilising NL
 ##  Tech Stack  
 
 ###  Core Languages & Frameworks  
-`C++`  `C`  `Python`  `Django`  `JavaScript`  `HTML`  `Kotlin`  `CSS`  
-  
+`Python`  `C`  `C++`  `Kotlin`  `JavaScript`  `HTML5`  `CSS3`  `Flask`  `Django`
 
-###  Automation, 3D & Rule Engines  
-`Rule Engine`  `3D Configurator`  `SolidWorks`  `AR/VR`  `RESTful APIs`  
+###  Artificial Intelligence & Machine Learning  
+`PyTorch`  `scikit-learn`  `Pandas`  `NumPy`  `Matplotlib`  `OpenAI API`  `NLTK`
 
-###  Data Science & ML Tools  
-`Pandas`  `PyTorch`  `scikit-learn`  `NumPy`  `Matplotlib`  
+###  Automation & System Integration  
+`RESTful APIs` 
+
+###  Application & UI Development  
+`Android Studio`  `Jetpack Compose`  `PyQt5`  `Tkinter`
 
 ###  Databases  
-`Microsoft SQL Server`  `MySQL`  
+`MySQL`  `Supabase`  `Firebase`
 
-###  DevOps & Version Control  
-`Git`  `GitHub`   
+###  DevOps & Tools  
+`Git`  `GitHub`  `GitLab`  `GitHub Actions`  `Docker`  `VS Code`  `Linux`
+
+###  Data Analytics & Visualization  
+`Excel`  `Plotly`
+
+
 
 ---
 
@@ -47,5 +54,6 @@ I recently developed an AI-powered chatbot for a car sales website, utilising NL
 
 
 ---
-
+## Motto
+“Where logic meets creativity — designing systems that think, learn, and evolve.”
 ---
