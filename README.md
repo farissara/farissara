@@ -1,16 +1,38 @@
-## Hi there 👋
+#  About Me  
+ Hello, I am **Faris Sara**, a **MSc Cyber Security Student at University of the West of England (UWE Bristol)** and a **First-Class BSc (Hons) Computer Science graduate** from the **UWE Bristol**.  
 
-<!--
-**farissara/farissara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Core Languages & Frameworks  
+`C++`  `C`  `Python`  `Django`  `JavaScript`  `HTML`  `Kotlin`  `CSS`  
+  
+
+###  Automation, 3D & Rule Engines  
+`Rule Engine`  `3D Configurator`  `SolidWorks`  `AR/VR`  `RESTful APIs`  
+
+###  Data Science & ML Tools  
+`Pandas`  `PyTorch`  `scikit-learn`  `NumPy`  `Matplotlib`  
+
+###  Databases  
+`Microsoft SQL Server`  `MySQL`  
+
+###  DevOps & Version Control  
+`Git`  `GitHub`   
+
+---
+
+##  Socials  
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/faris-sara-bb9474200/))  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/farissara))  
+
+---
+
+##  GitHub Stats  
+
+
+###  Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
