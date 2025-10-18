@@ -55,5 +55,5 @@ I recently developed an AI-powered chatbot for a car sales website, utilising NL
 
 ---
 ## Motto
-“Where logic meets creativity — designing systems that think, learn, and evolve.”
+> “Where logic meets creativity — designing systems that think, learn, and evolve.”
 ---
