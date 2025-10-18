@@ -7,10 +7,16 @@ I recently developed an AI-powered chatbot for a car sales website, utilising NL
 
 ##  What I Do  
 
- **AI & Automation Development** – Building intelligent assistants, workflow automation tools using Python and GPT models.  
- **Software Engineering** – Designing scalable backend systems, APIs, and full-stack applications with Django, Flask, and JavaScript.  
- **Machine Learning & Data Science** – Developing predictive models, NLP pipelines, and data-driven insights using scikit-learn, Pandas, and PyTorch.  
- **App & Interface Development** – Creating interactive Android apps with Kotlin and seamless desktop interfaces using PyQt.   **DevOps & Version Control** – Managing deployment pipelines, Git workflows, and continuous integration with GitHub Actions.  
+ **AI & Automation Development** – Building intelligent assistants, workflow automation tools using Python and GPT models.
+ 
+ **Software Engineering** – Designing scalable backend systems, APIs, and full-stack applications with Django, Flask, and JavaScript.
+ 
+ **Machine Learning & Data Science** – Developing predictive models, NLP pipelines, and data-driven insights using scikit-learn, Pandas, and PyTorch.
+ 
+ **App & Interface Development** – Creating interactive Android apps with Kotlin and seamless desktop interfaces using PyQt.
+ 
+ **DevOps & Version Control** – Managing deployment pipelines, Git workflows, and continuous integration with GitHub Actions.
+ 
  **Innovation & Experimentation** – Exploring creative ways to merge AI, automation, and UX to make technology more human-centric.  
 
 
